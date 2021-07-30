@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bea-Querubim
+- 👀 I’m interested in learning programming, improving my skills and studies, and building my career as a programmer. 
+- 🌱 I’m currently learning Python, Java and PHP
+- 📫 How to reach me email: beatrizq.batista@outlook.com.br
+- 🤩 Nice to met you!
