@@ -1,4 +1,8 @@
-## 😍Hi, I’m Beatriz Querubim, nice to see you here!
+<div><img align="right" height="300" width="500" alt="Bea" src="https://user-images.githubusercontent.com/88171648/150375410-862cd0cc-f020-45dd-a509-59e93c28bc50.jpg " />
+</div>
+
+## 😍Hi, I’m Beatriz Querubim, 
+*nice to see you here!*
 <h3> :woman: Just me </h3>
 
 - 🎓 Studying (College): **Systems Analysis and Development** at <a href="https://bra.ifsp.edu.br/"> Instituto Federal de Sao Paulo - Campus Bragança Paulista</a>.
@@ -6,12 +10,13 @@
 - 📚 Learning more about **C# and Python**
 - 📚 I want to learn about **BD (SQL) and JS**..
 - 👀 I’m interested in learning programming, improving my skills and studies, and building my career as a programmer. 
-
+ ##
 <div align="center">
   <a href="https://github.com/Bea-Querubim">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Bea-Querubim&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-Querubim&layout=higher&langs_count=7&theme=midnight-purple"/>
 </div>
+  
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,7 +24,6 @@
  </div>
   
    ##
-  
  <h3> Developer Tools </h3>
     
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
