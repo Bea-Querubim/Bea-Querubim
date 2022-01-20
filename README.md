@@ -20,11 +20,11 @@
   
    ##
   
- <h3> developer tools </h3>
+ <h3> Developer Tools </h3>
     
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
     
- <h3> Study tools </h3>
+ <h3> Study Tools </h3>
    
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
 ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
