@@ -14,11 +14,12 @@
 <div align="left">
   <a href="https://github.com/Bea-Querubim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bea-Querubim&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-Querubim&layout=higher&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-Querubim&langs_count=7&theme=midnight-purple"/>
 </div>
   
   <div style="display: inline_block"><br>
   <img align="right" alt="Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Javascript" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="right" alt="Csharp" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <align="left">
 
