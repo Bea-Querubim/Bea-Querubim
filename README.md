@@ -13,9 +13,10 @@
  ##
 <div>
   <a href="https://github.com/Bea-Querubim">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bea-Querubim&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="left"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-Querubim&layout=compact&langs_count=5&theme=midnight-purple"/>
-   </div>
+    <div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bea-Querubim&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-Querubim&layout=compact&langs_count=5&theme=midnight-purple"/>
+     </div>
   
   <div style="display: inline_block" align="center"><br>
   <img alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,9 +26,6 @@
   <img alt="Rafa-HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Rafa-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
- 
-
- <div align="left">
   
  <h3> Contact </h3> 
   
