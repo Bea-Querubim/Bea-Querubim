@@ -14,14 +14,18 @@
 <div align="left">
   <a href="https://github.com/Bea-Querubim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bea-Querubim&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-Querubim&langs_count=7&theme=midnight-purple"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bea-Querubim&layout=compact&langs_count=7&theme=midnight-purple"/>
+
   
   <div style="display: inline_block"><br>
-  <img align="right" alt="Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Javascript" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Csharp" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <align="left">
+  <img align="right" alt="Python" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Javascript" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="right" alt="Csharp" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="React" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="right" alt="Rafa-HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="Rafa-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+ 
 
    <h3> Contact </h3>
    <div align="left"> 
