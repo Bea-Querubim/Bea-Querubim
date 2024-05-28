@@ -7,7 +7,7 @@
 
 - 🎓 Studying (College): **Systems Analysis and Development** at <a href="https://bra.ifsp.edu.br/"> Instituto Federal de Sao Paulo - Campus Bragança Paulista</a>.
 - 💼 Working:  **Chatbot Developer Jr** in <a href="https://www.blip.ai/">Blip</a>
-- 📚 Learning more about **C# and JS**
+- 📚 Learning more about **C# and Java/JS**
 - 👀 I’m interested in learning programming, improving my skills and studies, and building my career as a programmer. 
  ##
    
