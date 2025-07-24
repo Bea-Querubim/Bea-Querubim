@@ -1,5 +1,4 @@
-<div align="right">
-  <img height="300" width="500" alt="Bea" src="https://user-images.githubusercontent.com/88171648/150375410-862cd0cc-f020-45dd-a509-59e93c28bc50.jpg" />
+<div><img align="right" height="300" width="500" alt="Bea" src="https://user-images.githubusercontent.com/88171648/150375410-862cd0cc-f020-45dd-a509-59e93c28bc50.jpg " />
 </div>
 
 # 👩‍💻 Beatriz Querubim
