@@ -15,7 +15,7 @@ I'm a Systems Analyst and Developer focused on backend development, clean code, 
 - **Systems Analyst and Developer** at Semantix [Semantix](https://semantix.ai/)
 
 ### 💼 Professional history
-- **Software Engineer (Chatbots & Backend)** at [Blip](https://www.blip.ai) for 4 years and 9 months
+- **Software Engineer (Chatbots & Backend)** at [Blip](https://www.blip.ai) for 4 years and 9 months,
   Developing resilient conversational solutions and integrations using C#, .NET, RESTful APIs, and Azure DevOps.
 
 ### 📚 Currently Deepening
