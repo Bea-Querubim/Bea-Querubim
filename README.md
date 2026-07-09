@@ -12,7 +12,7 @@ I'm a Systems Analyst and Developer focused on backend development, clean code, 
 - **Digital Games** – FMU (completed)
 
 ### 💼 Current Role
-- ** Systems Analyst and Developer** at Semantix [Semantix](https://semantix.ai/)
+- **Systems Analyst and Developer** at Semantix [Semantix](https://semantix.ai/)
 
 ### 💼 Professional history
 - **Software Engineer (Chatbots & Backend)** at [Blip](https://www.blip.ai) for 4 years and 9 months
